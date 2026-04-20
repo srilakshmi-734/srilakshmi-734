@@ -102,13 +102,13 @@ Currently exploring advanced architectures in **Decision Intelligence and LLM op
 - ☁️ **Cloud & Tools:** Docker, AWS (Basics), Git  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Sri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srilakshmi-734&show_icons=true&theme=radical)
 
 ---
-
+-->
 ## 📫 Connect With Me  
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/elluri-sri-lakshmi-80095a299  
